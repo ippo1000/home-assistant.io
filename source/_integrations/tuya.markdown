@@ -1,6 +1,11 @@
 ---
 title: Tuya
 description: Instructions on how to set up the Tuya hub within Home Assistant.
+
+
+note: NO LONGER WORKING - USE TUYA V2 FROM HACS - NOT SUPPORTED (No devices found)
+
+
 ha_category:
   - Binary Sensor
   - Camera
